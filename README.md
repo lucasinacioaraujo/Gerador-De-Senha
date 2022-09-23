@@ -1,2 +1,7 @@
-# Gerador-De-Senha
- Gerador de senhabasico
+# GERADOR DE SENHA
+
+## Tecnologias Usadas
+
+- Javascript
+- HTML
+- CSS
